@@ -30,6 +30,7 @@ public class guessTheGame {
             
         } while (userNumber > 0);
         System.out.println("End");
+        sc.close();
 
     }
 }
