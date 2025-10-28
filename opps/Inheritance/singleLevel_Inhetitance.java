@@ -1,6 +1,6 @@
 
 
-package opps.Inheritance;
+package opps.inheritance;
 
 class person{
 

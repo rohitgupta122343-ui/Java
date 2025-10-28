@@ -1,4 +1,4 @@
-package opps.Inheritance;
+package opps.inheritance;
 
 // Parent class
 class Person {
