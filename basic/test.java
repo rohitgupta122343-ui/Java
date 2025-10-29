@@ -6,7 +6,7 @@ class test{
     int age = 19;
 
     System.out.println("name : "  + name);
-    System.out.println("age " + age);
+    System.out.println("age : " + age);
 
   }
 }
