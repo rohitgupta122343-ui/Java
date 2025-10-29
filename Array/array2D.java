@@ -14,7 +14,7 @@ public class array2D {
 
         System.out.println(Arrays.deepToString(arr2D));
    
-        System.out.println("arr2D[0][0] "+arr2D[0][0]);
+        System.out.println("arr2D[0][0] : "+arr2D[0][0]);
         System.out.println("arr2D[2][2] "+arr2D[2][2]);
 
         for (int i = 0; i < arr2D.length; i++) {
