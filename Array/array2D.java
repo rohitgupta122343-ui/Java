@@ -13,7 +13,7 @@ public class array2D {
         };
 
         System.out.println(Arrays.deepToString(arr2D));
-        // accessing element 
+   
         System.out.println("arr2D[0][0] "+arr2D[0][0]);
         System.out.println("arr2D[2][2] "+arr2D[2][2]);
 
