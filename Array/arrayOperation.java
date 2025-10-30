@@ -11,7 +11,7 @@ public class arrayOperation {
 
         System.out.println(Arrays.toString(marks));
 
-        // accessing of index 
+    
         System.out.println("index 1 : " + marks[1]);
         System.out.println("index 3 : "+marks[3]);
 
