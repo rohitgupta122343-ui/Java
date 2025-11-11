@@ -1,4 +1,4 @@
-package Partical;
+
 
 public class PrintStringExample {
     
